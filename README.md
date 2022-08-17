@@ -21,5 +21,5 @@ for more help use `python convert.py -h`
 -   has no audio or relevant video
 
 ```
-python convert.py -t DURATION FPS WIDTH HEIGHT LOOP_COUNT
+python convert.py -t DURATION FPS(default: 30) WIDTH(default:500) HEIGHT(default:500) LOOP_COUNT(default:1)
 ```
