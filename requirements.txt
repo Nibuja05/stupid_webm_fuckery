@@ -1,0 +1,4 @@
+ffmpeg
+numpy
+pillow
+argparse
